@@ -1,0 +1,7 @@
+{
+  "name": "Vault Note",
+  "description": "An offline-first, zero-knowledge, privacy-focused password manager and secure notes vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
